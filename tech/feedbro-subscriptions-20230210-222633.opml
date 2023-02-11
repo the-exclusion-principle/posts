@@ -55,8 +55,6 @@
             xmlUrl="https://www.instagram.com/bystarlitnight/" htmlUrl="https://www.instagram.com/bystarlitnight"/>
       <outline text="thomas (@thomreads) | Instagram" title="thomas (@thomreads) | Instagram" type="rss" 
             xmlUrl="https://www.instagram.com/thomreads" htmlUrl="https://www.instagram.com/thomreads"/>
-      <outline text="𝙸𝚗𝚔𝚍𝚛𝚒𝚗𝚔𝚎𝚛☕︎ (@inkdrinkerx) | Instagram" title="𝙸𝚗𝚔𝚍𝚛𝚒𝚗𝚔𝚎𝚛☕︎ (@inkdrinkerx) | Instagram" type="rss" 
-            xmlUrl="https://www.instagram.com/inkdrinkerx/" htmlUrl="https://www.instagram.com/inkdrinkerx"/>
       <outline text="nicole elizabeth | studygram (@elizastudy_) | Instagram" title="nicole elizabeth | studygram (@elizastudy_) | Instagram" type="rss" 
             xmlUrl="https://www.instagram.com/elizastudy_/" htmlUrl="https://www.instagram.com/elizastudy_"/>
       <outline text="https://studium-stardust.tumblr.com/" title="https://studium-stardust.tumblr.com/" type="rss" 
@@ -89,6 +87,10 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8QAzbLcRglXeN_MY9blyw" htmlUrl="https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw"/>
       <outline text="The GitHub Blog » Feed" title="The GitHub Blog » Feed" type="rss" 
             xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
+      <outline text="lckdscl’s site" title="lckdscl’s site" type="rss" 
+            xmlUrl="https://lckdscl.xyz/feed.xml" htmlUrl="/"/>
+      <outline text="orizuru" title="orizuru" type="rss" 
+            xmlUrl="https://orizuru.neocities.org/atom.xml"/>
   </outline>
   <outline title="linux" text="linux">
       <outline text="Manjaro - enjoy the simplicity" title="Manjaro - enjoy the simplicity" type="rss" 
@@ -133,6 +135,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVHxJghKAB_kA_5LMM8MD3w" htmlUrl="https://www.youtube.com/channel/UCVHxJghKAB_kA_5LMM8MD3w"/>
       <outline text="James (@jamesjmdev) | Twitter" title="James (@jamesjmdev) | Twitter" type="rss" 
             xmlUrl="https://twitter.com/jamesjmdev" htmlUrl="https://twitter.com/jamesjmdev"/>
+      <outline text="you just lost the game" title="you just lost the game" type="rss" 
+            xmlUrl="https://isomorbism.tumblr.com/rss" htmlUrl="https://isomorbism.tumblr.com/"/>
   </outline>
 </body>
 </opml>
