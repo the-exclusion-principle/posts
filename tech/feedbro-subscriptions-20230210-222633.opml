@@ -33,8 +33,8 @@
             xmlUrl="https://archaic-stranger.tumblr.com/rss" htmlUrl="https://archaic-stranger.tumblr.com/"/>
       <outline text="hizerain" title="hizerain" type="rss" 
             xmlUrl="https://hizerain.tumblr.com/rss" htmlUrl="https://hizerain.tumblr.com/"/>
-      <outline text="notesbyquinn" title="notesbyquinn" type="rss" 
-            xmlUrl="https://notesbyquinn.tumblr.com/rss" htmlUrl="https://notesbyquinn.tumblr.com/"/>
+      <outline text="notesbyash" title="notesbyquinn" type="rss" 
+            xmlUrl="https://notesbyash.tumblr.com/rss" htmlUrl="https://notesbyash.tumblr.com/"/>
       <outline text="emma" title="emma" type="rss" 
             xmlUrl="https://studywithemma.tumblr.com/rss" htmlUrl="https://studywithemma.tumblr.com/"/>
       <outline text="metastable" title="metastable" type="rss" 
@@ -45,10 +45,28 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYCO3Kifwg56zhus3XXiAVg" htmlUrl="https://www.youtube.com/channel/UCYCO3Kifwg56zhus3XXiAVg"/>
       <outline text="pascal zoels" title="pascal zoels" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDhPfimUEqvgWbnVtfErG1g" htmlUrl="https://www.youtube.com/channel/UCDhPfimUEqvgWbnVtfErG1g"/>
-      <outline text="studymd" title="studymd" type="rss" 
-            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5CRP-6oxYenIgBj17CkBZg" htmlUrl="https://www.youtube.com/channel/UC5CRP-6oxYenIgBj17CkBZg"/>
       <outline text="lovely nothingness" title="lovely nothingness" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-LVtmKRTBRkQ4no-AJZy1Q" htmlUrl="https://www.youtube.com/channel/UC-LVtmKRTBRkQ4no-AJZy1Q" maxItems="1000" entryContent="3"/>
+      <outline text="f l o u r i s h" title="f l o u r i s h" type="rss" 
+            xmlUrl="http://studylustre.tumblr.com/tagged/studyspo/rss" htmlUrl="https://studylustre.tumblr.com/"/>
+      <outline text="Everyone Loves Intellectuals 📚✨ (@eli.academia) | Instagram" title="Everyone Loves Intellectuals 📚✨ (@eli.academia) | Instagram" type="rss" 
+            xmlUrl="https://www.instagram.com/eli.academia/" htmlUrl="https://www.instagram.com/eli.academia"/>
+      <outline text="* (@bystarlitnight) | Instagram" title="* (@bystarlitnight) | Instagram" type="rss" 
+            xmlUrl="https://www.instagram.com/bystarlitnight/" htmlUrl="https://www.instagram.com/bystarlitnight"/>
+      <outline text="thomas (@thomreads) | Instagram" title="thomas (@thomreads) | Instagram" type="rss" 
+            xmlUrl="https://www.instagram.com/thomreads" htmlUrl="https://www.instagram.com/thomreads"/>
+      <outline text="𝙸𝚗𝚔𝚍𝚛𝚒𝚗𝚔𝚎𝚛☕︎ (@inkdrinkerx) | Instagram" title="𝙸𝚗𝚔𝚍𝚛𝚒𝚗𝚔𝚎𝚛☕︎ (@inkdrinkerx) | Instagram" type="rss" 
+            xmlUrl="https://www.instagram.com/inkdrinkerx/" htmlUrl="https://www.instagram.com/inkdrinkerx"/>
+      <outline text="nicole elizabeth | studygram (@elizastudy_) | Instagram" title="nicole elizabeth | studygram (@elizastudy_) | Instagram" type="rss" 
+            xmlUrl="https://www.instagram.com/elizastudy_/" htmlUrl="https://www.instagram.com/elizastudy_"/>
+      <outline text="https://studium-stardust.tumblr.com/" title="https://studium-stardust.tumblr.com/" type="rss" 
+            xmlUrl="https://studium-stardust.tumblr.com/rss" htmlUrl="https://studium-stardust.tumblr.com/"/>
+      <outline text="merve" title="merve" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkPgEucgqedbckpzC2EUwIA" htmlUrl="https://www.youtube.com/channel/UCkPgEucgqedbckpzC2EUwIA"/>
+      <outline text="Maria vs universe (@xsemaria) | Instagram" title="Maria vs universe (@xsemaria) | Instagram" type="rss" 
+            xmlUrl="https://www.instagram.com/xsemaria/" htmlUrl="https://www.instagram.com/xsemaria"/>
+      <outline text="studymd" title="studymd" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5CRP-6oxYenIgBj17CkBZg" htmlUrl="https://www.youtube.com/channel/UC5CRP-6oxYenIgBj17CkBZg"/>
   </outline>
   <outline title="cybersecurity" text="cybersecurity">
       <outline text="Restore Privacy" title="Restore Privacy" type="rss" 
@@ -61,8 +79,6 @@
             xmlUrl="https://odysee.com/$/rss/@AlphaNerd:8" htmlUrl="https://odysee.com/@AlphaNerd:8"/>
   </outline>
   <outline title="productivity" text="productivity">
-      <outline text="        Matt D&#39;Avella        " title="        Matt D&#39;Avella        " type="rss" 
-            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA" htmlUrl="https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA"/>
       <outline text="ThoughtfulAtlas’ Newsletter" title="ThoughtfulAtlas’ Newsletter" type="rss" 
             xmlUrl="https://thoughtfulatlas.substack.com/feed" htmlUrl="https://thoughtfulatlas.substack.com"/>
   </outline>
@@ -89,6 +105,34 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIOvS6rUOMa1xdmfbbbGW9Q" htmlUrl="https://www.youtube.com/channel/UCIOvS6rUOMa1xdmfbbbGW9Q"/>
       <outline text="betterthanfood" title="betterthanfood" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrY6MKSkOlKDBISvM2zEgoQ" htmlUrl="https://www.youtube.com/channel/UCrY6MKSkOlKDBISvM2zEgoQ"/>
+  </outline>
+  <outline title="girlbloggers" text="girlbloggers">
+      <outline text="daemonhxckergrrl" title="daemonhxckergrrl" type="rss" 
+            xmlUrl="https://daemonhxckergrrl.tumblr.com/rss" htmlUrl="https://daemonhxckergrrl.tumblr.com/"/>
+      <outline text="raen1" title="raen1" type="rss" 
+            xmlUrl="https://raen1.tumblr.com/rss" htmlUrl="https://raen1.tumblr.com/"/>
+      <outline text="tonysopranobignaturals" title="tonysopranobignaturals" type="rss" 
+            xmlUrl="https://tonysopranobignaturals.tumblr.com/rss" htmlUrl="https://tonysopranobignaturals.tumblr.com/"/>
+      <outline text="ms-demeanor" title="ms-demeanor" type="rss" 
+            xmlUrl="https://ms-demeanor.tumblr.com/rss" htmlUrl="https://ms-demeanor.tumblr.com/"/>
+      <outline text="papenathys" title="papenathys" type="rss" 
+            xmlUrl="https://papenathys.tumblr.com/rss" htmlUrl="https://papenathys.tumblr.com/"/>
+      <outline text="daytura 🧶 (@ArchLeucoryx) | Twitter" title="daytura 🧶 (@ArchLeucoryx) | Twitter" type="rss" 
+            xmlUrl="https://twitter.com/ArchLeucoryx" htmlUrl="https://twitter.com/ArchLeucoryx"/>
+      <outline text="what if + how to: xkcd" title="what if + how to: xkcd" type="rss" 
+            xmlUrl="https://what-if.xkcd.com/feed.atom" htmlUrl="https://what-if.xkcd.com"/>
+      <outline text="kache (yacine) (@yacineMTB) | Twitter" title="kache (yacine) (@yacineMTB) | Twitter" type="rss" 
+            xmlUrl="https://twitter.com/yacineMTB" htmlUrl="https://twitter.com/yacineMTB"/>
+      <outline text="contrapoints" title="RSS" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA" htmlUrl="https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA"/>
+      <outline text="philosophy tube" title="philosophy tube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2PA-AKmVpU6NKCGtZq_rKQ" htmlUrl="https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ"/>
+      <outline text="Thus Spoke Haven         " title="Thus Spoke Haven         " type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUEOEl2mJA7arRKNk71krUg" htmlUrl="https://www.youtube.com/channel/UCUEOEl2mJA7arRKNk71krUg"/>
+      <outline text="olisunvia" title="olisunvia" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVHxJghKAB_kA_5LMM8MD3w" htmlUrl="https://www.youtube.com/channel/UCVHxJghKAB_kA_5LMM8MD3w"/>
+      <outline text="James (@jamesjmdev) | Twitter" title="James (@jamesjmdev) | Twitter" type="rss" 
+            xmlUrl="https://twitter.com/jamesjmdev" htmlUrl="https://twitter.com/jamesjmdev"/>
   </outline>
 </body>
 </opml>
