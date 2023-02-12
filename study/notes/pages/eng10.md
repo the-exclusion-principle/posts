@@ -1,0 +1,77 @@
+- foot prints without feet
+	- **a triumph of surgery**
+		- *“Too much of anything is good for nothing.” Justify it with regard to “A Triumph of Surgery”.*
+		- *‘When you shower your love to your loved ones, make sure it is not in excess’. Analyse this statement with reference to the love and care Mrs Pumphrey showered on her pet dog, Tricki.*
+		- *Mr Herriot’s treatment given to Tricki is likely to be considered as a breach of trust. Comment.*
+	- **a thief's story**
+		- Why did the thief smile without any effort towards the end of the story?
+		- 1.Hari Singh says- “He knew it but neither his lips nor his eyes showed anything.” Anil successfully addressed the situation by not addressing it at all. Elaborate based on your reading of The Thief’s Story.
+		- Forgiveness is not about condoning other people’s detrimental behaviour; it is about developing compassion and accepting others for being imperfect. Analyse the stamen in the light of the chapter ‘The Thief’s Story’.
+	- **a midnight visitor**
+		- According to Fowler, Ausable was unlike any fictional spy. Validate the statement with relevant example.
+	- **a question of trust**
+		- “Horace Danby was good and respectable — but not completely honest”. Why do you think this description is apt for Horace?
+	- **footprints without feet**
+		- Griffin’s brilliance as a man of science fades before his darker traits. Comment.
+		-
+	- the making of a scientist
+		- balanced academics as well as recreational pursuits (hobbies etc.)
+		- a well-rounded personality.
+		- photography(nature & scientific exhibits), public speaker, champion debater, good canoeist, all-around outdoor person
+			- participated in debate club and mun club
+		- What lesson did Ebright learn when he could not win anything at the Science Fair in seventh grade?
+	- the necklace
+	- bholi
+		- Read the following quote by an American author, E. E. Hale. “I am only one but, I am one. I cannot do everything but I can do something. And I will not let what I cannot do interfere with what I do.” Bholi’s evolution from a ‘dumb cow’ to a ‘masterpiece’ supports the given quote. Justify.
+		- intelligent, knows diff b/w right & wrong, confident, independent
+	- the book that saved the earth
+		- Noodle avoids offending Think-Tank but at the same time corrects his mistakes. What does this say about the character of Noodle?
+		- How does Think-Tank compare the Earth and Earthlings, with Mars and Martians?
+			- He considers Martians a handsome race. They are much more attractive than those ugly Earthlings with their tiny heads. He calls the Earth as a primitive ball of mud.
+		-
+- first flight
+	- a letter to god
+		- There are two kinds of conflicts in the story: between humans and nature, and between humans themselves. How are these conflicts illustrated?
+	- a long walk to freedom
+		- What does the author think of the wealth of the country?
+	- first flight
+		- While alone on the ledge, how did the little seagull try to draw the attention of his family?
+	- black aeroplane
+	- diary of anne frank
+		- Why was Anne’s entire class anxious and nervous?
+		- Can writing a diary be a way to vent out anxiety. Briefly explain taking the reference from Anne’s habit.
+	- glimpses of india
+		- goa
+		  		[] coorg
+		- assam
+	- mijbil the otter
+	- madam rides the bus
+		- Curiosity is the mother of learning. If one has an urge to know more about anything, one learns many things. Valli also has an urge to know more and more about things and her surroundings which makes her an intelligent, confident and mature girl. What traits of her character make her so? What do you learn from her character?
+		- **intelligent, confident, inquisitive and mature girl**.
+		- Why did Valli react so violently when she was called a ‘child’ or a ‘madam’?
+	- sermon at benares
+		- Kisa compared human life to an inanimate object. What is it and why does she do so?
+		-
+	- the proposal
+		- How can we say that the play ‘The Proposal’ is an elaborate portrayal of the difference between practicality and myth of marriage?
+	- fire and ice
+		- The use of symbolism in the poem ‘Fire and Ice’ conveys the poet’s message effectively. Expand with reference to thepoem.
+	- dust of snow
+		- 1.What is a ‘dust of snow’? What does the poet say has changed his mood? How has the poet’s mood changed?
+			- Dust of snow refers to fine particles of snow.
+	- a tiger in the zoo
+		- The tiger is referred to with the use of the pronoun 'he' , **implying that he can feel like humans do, that is, feeling helpless at being imprisoned and wanting to be free**. Therefore, the tiger has been personified, that is, has been given human-like qualities in this poem.
+	- how to tell wild animals
+	- the ball poem
+		- The poem deals with a child understanding loss for the first time. Matches and championships too, deal with a different sense of loss. Explain how games and sports are a good way to train children to take losses in their stride.
+	- amanda
+		- Justify the poet’s allusion to Rapunzel in ‘Amanda’.
+	- the trees
+	- fog
+	- the tale of custard the dragon
+		- How does everyone celebrate Custard getting rid of the pirate?
+		- What terrified the pirate? Who killed him and how?
+			- Custard, the dragon, jumped up, snorting and clashing his tail. He was making a lot of clatter and clankering and he was squirming. He attacked the pirate. It terrified the pirate. He fired at Custard and missed. Custard killed him by swallowing him up. It shows that he was brave.
+	- for anne gregory
+- analytical para
+- letter end stuff

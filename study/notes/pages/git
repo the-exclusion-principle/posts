@@ -1,0 +1,22 @@
+$ git init # initialize repo
+
+$ git remote add origin https://github.com/rev-975/git.git # adds it i guess i don't rly understand this
+
+# login with githubcli
+install githubcli from web 
+
+$ gh auth login
+
+$ git pull https://github.com/rev-975/git main # pull everything that we need
+ (OR)
+$ git clone https://github.com/rev-975/git # clone the repo
+
+git branch (# should be main- if not then don't do anything)
+#change to main because for some reason default is master and ours is main
+$ git checkout main # goes to main
+
+$ git branch -d master # deletes master branch
+
+# everything shld be working fine now
+# if not you're fucked.
+# good luck.

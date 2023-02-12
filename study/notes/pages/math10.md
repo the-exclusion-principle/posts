@@ -1,0 +1,48 @@
+#M
+- real numbers
+	- notes/basic understanding?
+	- hcf/lcm qs
+	- those largest no, smallest no qs
+	- prove
+	- rational/irrational
+- polynomials
+	- mcqs
+	- big division
+	- math hw nb qs
+- pair of linear eq
+	- upstream/downstream
+	- dist-speed-time
+	- the formula thing- //, coincident & intersecting
+- qe
+	- big word problems
+		- dist-speed-time
+		- remember formula??
+- ap
+	- big qs
+	- formulas - sum & basic & the weird sum minus thing
+-  triangles
+	- median thing
+	- theorems
+	- rd sharma??
+	- ncert last qs
+-  circles
+	- rd sharma??
+	- ncert last qs
+- a(circles)
+	- ncert last qs
+- trig
+	- proving stuff. remember trig table.
+- trig 2
+	- big word prob stuff
+- stat
+	- ..do 2 qs in all??
+-  sav
+	- ..ncert..
+	- rd sharma go thru
+-  co-ord
+	- remember formula
+	- big qs?
+	- last ncert
+	- theorems 
+- prob
+	- go thru examples/rd sharma

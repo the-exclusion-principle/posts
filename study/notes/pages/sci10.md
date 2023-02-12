@@ -1,0 +1,83 @@
+- #B
+	- life processes
+		- nutrition
+			- amoeba #diagram
+			- human #diagram
+		- respiration
+		- transportation
+			- plant
+			- human
+		- excretion
+	- control and co-ordination
+		- plant
+		- hormones n stuf
+		- ! human
+	- ! repro
+		- asexual
+		- sexual
+			- human #diagram 
+			- plant
+			- contraception
+	- heredity
+		- ! cross
+		- ! rules
+	- our env
+		- plant stuff
+		- ozone
+- #C 
+	- chem eq
+		- 2 eqs from each type
+	- acid
+		- eq
+		- prop of stuff
+	- metals
+		- reactions
+		- properties
+		- weird imp stuff
+			- aqua regia
+			- hno3 nitric thing
+		- ! extraction n stuff
+			- high
+			- low
+			- med
+		- electro reduction
+	- carbon
+		- iupac
+		- diamond- graphite stuff
+		- that why c can't bond or whatever thing
+		- properties of c
+		- defi
+		- reactions
+			- combustion + add + sub
+			- ethanol
+			- ethanoic acid
+		- soaps
+		- hard water
+		- detergents
+- #P
+	- light
+		- mirror
+			- image formation table
+			- #diagram 
+		- lens
+			- formation table
+			- #diagram 
+	- human eye
+		- #diagram 
+		- myopia
+		- hyper
+		- pres
+		- ! those paras - scattering or whatev
+	- electricity
+		- #diagram 
+		- def
+		- proofs
+		- form
+		- factors of stuf
+	- magnets
+		- prop
+		- rules
+		- #diagram 
+		- ! induction
+			- ! ac/dc
+		- ! factors

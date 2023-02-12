@@ -1,0 +1,206 @@
+- h
+	- eu
+		- How can you say that conservative regimes set up in 1815 were autocratic?
+		- 4 When was the Napoleonic code introduced? What were its main features?
+		- Discuss the ideology of conservatives after 1815?
+		- Who was personified as a female figure by the artist of the time of the French Revolution? statue of liberty
+		- Define the term utopian. What can be clearly inferred about the notions of collective identity and common culture prevalent among Europeans?
+		- Who was Frederic sorrieu? What is the name of the print prepared by him?
+		- Trace the events that led to the independence of Greece.
+		- In Britain, the formation of the nation state was the result of a long, drawn out process. Discuss.
+		- Why are allegories used to generate nationalism? Give examples of allegories used in France and Germany.
+		- Name the most important revolutionary of Italy. To which secret society did he belong? Mention his views about a nation state.
+		- 2 Who hosted the Treaty of Vienna? Who were the signatories of this Treaty? What was the aim of this Treaty?
+		- How did the French revolutionaries create a sense of collective belonging among the French people?
+		- What was the Romantic imagination about a nation?
+	- in
+		- What were the effect Non- Cooperation Movement on the economy?
+		- Evaluate the role of business classes in the ‘Civil disobedience Movement.”
+		- How did the First World War help in the growth of the National Movement in India?
+		- 2 Describe the role of Alluri Sitaram Raju in organizing revolts.
+		- Highlight the salient features of the Rowlatt Act.
+		- Describe the role of poor peasantry in Civil Disobedience Movement.
+		- 2 Which 3 early satyagrah movements were organized by Mahatma Gandhi?
+		- 2 Critically examine the different ways by which different leaders worked for the upliftment of the dalits in the Indian Society.
+		- Describe the role of Mahatma Gandhi in the national movement.
+		- Highlight the salient features of the Poona Pact.
+		- Why did Mahatma Gandhi lay emphasis on spinning yarn and weaving khadi?
+		- Why did Gandhiji decide to launch a nationwide satyagraha against the proposed Rowlatt Act of 1919? How was it organized?
+		- What does the idea of Satyagraha emphasize?
+	- global world
+		- 2 What methods were adopted by the European employers to meet their demand for labour in Africa?
+		- Why was the Bretton Woods established?
+		- What is meant by Bretton Woods agreement?
+		- What were the two crucial influences that shaped post war reconstruction?
+		- What were the three types of ‘movements’ or ‘flows’ which were a part of international economic exchange?
+		- What factors were responsible for the migration of a large number of people from Europe to other parts of the world?
+		- Give an example of vibrant pre-modern trade and cultural links between distant parts of the world. Mention what type of cultural exchange was going on through this route.
+		- Who accidently discovered a sea route to the Americas?
+		- List any 2 crops that travelled from the Americas to other parts of the world. How did these crops make a difference between life and death in Europe.
+		- Explain the role of Bretton Woods institutions in post-Second World War settlement.
+		- What were the causes of the Great Depression of 1929?
+		- What factors led to the establishment of G-77?
+		- Why was it difficult for the Europeans to find people to work for them?
+	- ind
+		- Explain the ways through which British manufacturers attempted to take over the Indian market.
+		- jobber q
+		- Explain why women workers in Britain attacked the spinning jenny?
+		- What factors were responsible for the slow pace of growth in the process of industrialization?
+		- Who created the cotton mill? What was its advantage?
+		- By the beginning of the 19 th century India experienced a long decline of textile exports from India.” Explain
+		- How did the abundance of labour affect the lives of workers in the early years of the 19 th century?
+		- Why was it difficult for East India Company to ensure a regular supply of good for export before it established political power in Bengal?
+		- Mention any one reason that led to clashes between weavers and gomasthas.
+		- What steps were taken by East India Company to develop and manage trade in India?
+	- print
+		- Trace the development of printing technology in Europe.
+		- 2 Discuss the role of print in stimulating religious reforms and public debates.
+		- “Printing technology gave women a chance to share their feelings with the world outside” support the statement with any five suitable examples.
+		- “Martin Luther King was in favour of print and spoke in praise of it.” Explain
+		- Give a brief account of manuscripts of India.
+		- What do you mean by despotism?
+		- Why Roman Catholic Church began keeping an index of prohibited books from the mid-sixteenth century?
+		- Name any two thinkers whose writings were widely printed and read.
+			- **Voltaire and Jean Jacques Rousseau**
+		- “Many historians have argued that print culture created the conditions within which French Revolution occurred.” Explain
+		- What do you mean by print revolution? What was its impact?
+- g
+	- r & d
+		- Enlist the problems caused due to indiscriminate use of resources.
+		- What was Gandhiji’s view on resource conservation?
+		- ‘Land degradation takes place due to different factors in different places’. Explain with examples.
+		- How is Resource planning in India?
+		- List the factors responsible for soil formation.
+	- forests
+		- According to the National Forest Policy how much percentage of land should be under forests? Why is it essential?
+	- water
+		- How do dams create conflicts between people?
+		- What were ‘kuls’ or ‘Guls’?
+		- What is rainwater harvesting?
+		- The practice of rooftop rainwater harvesting in Rajasthan is on the decline. Why?
+		- What is palar pani?
+		- Give two examples to prove that India has always had the tradition to harvest rainwater.
+		- Why do people in Gendathur harvest rainwater.
+	- agri
+		- 3 What is the impact of subsidies provided by the government on agricultural inputs?
+		- 3 What steps have been taken by the government of India to modernize agriculture?
+		- 3 Enlist the technological and institutional reforms initiated by the government of India for the development of agriculture.
+	- minerals
+		- 2 Suggests two measures to conserve mineral resources.
+		- Why is mica considered to be one of the most indispensable minerals used in electric and electronic industry?
+		- What are the hazards of mining on the health of the miners and the environment?
+		- List the uses of manganese, copper and Bauxite.
+		- What is Geothermal Energy? Name the places where experimental projects for geothermal energy have been set up in India.
+		- the first q
+		- What are the benefits of gobar gas plants?
+	- manu ind
+		- 2 Agriculture and industry are complementary to each other. Explain
+		- 3 How can the industrial pollution of freshwater be reduced?
+		- 3 What do you mean by manufacturing? ‘The economic strength of a country is measured by the development of manufacturing industries.’ Explain
+		- Describe the pro-active approach of NTPC for preserving the natural environment.
+		- List the different types of pollution. Mention any one cause for each type of pollution. How can we minimize the effects of these types of pollution?
+		- What were the objectives of the National Jute policy of 2005?
+		- List measures to control air and noise pollution.
+		- Why is the jute textile industry concentrated in the Hooghly basin?
+	- lifelines
+		- Analyze the physiographic economic factors that have influenced the distribution pattern of the railway network in our country.
+		- International trade is considered economic barometer of a country. Justify the Statement.
+		- “Transport and communication are the basic arteries of a nation’s economy”. Explain.
+		- When and where was the first railway line established in India?
+		- Mention any one problem related to railways in India.
+		- Which part of India has the highest network of railways in India? Give any two reasons behind it.
+		- How has international trade evolved over the last few years.
+		- 2 What are the advantages of roadways over railway?
+		- Classify roads of India on the basis of their capacity.
+		- List the relative advantages of the railways over roadways.
+		- What are the two terminal points of the East-West corridor?
+		- Suggest any one way to enhance pilgrimage tourism through Indian railways.
+		- Give an example of heritage tourism.
+		- Tourism is an upcoming industry in India. Explain.
+		- What is the advantage of mass communication? What is the radio and television network of India known as?
+- c
+	- power sharing
+		- Explain the term coalition and give example.
+		- How are interest groups associated with politics?
+		- State one moral and prudential reason for power sharing.
+		- What does majoritarianism mean?
+		- How did Tamils make efforts to gain power in Sri Lanka?
+		- The practice of rooftop rainwater harvesting in Rajasthan is on the decline. Why?
+		- Brussels has a separate government in which both communities have equal representation. Why?
+		- What is the community government in Brussels?
+		- Which religion is adopted as the state religion of Sri Lanka? buddism
+		- What is the system of checks and balances?
+		- Give one example of prudential reason of power sharing.
+	- fed
+	  collapsed:: true
+		- 2 Describe the main features of federalism.
+		- “Promotion of Hindi continues to be the official policy of government of India.” Elucidate
+		- 2 Explain the different routes through which federations have been formed.
+		- Describe the constitutional amendments made to make 3 rd tier of democracy more Effective and powerful.
+		- Explain the language policy of India.
+		- 2 What do you mean by decentralisation? Why is it necessary?
+		- “Federal power sharing is more effective today than it was in the early years after the Constitution came into force”. Justify the statement.
+	- gender
+		- 2 How do castes get politicized?
+		- Mention different aspects of life in which women are discriminated or disadvantaged in India.
+		- State reasons that caste alone cannot determine election results in India.
+		- Write any two evil effects of communalism in politics.
+		- Mention two factors that helped to improve women’s role in public life.
+		- What are the demands of the feminist movements?
+		- Name any two social reformers who fought against caste discrimination in India.
+		- Give any two reasons why old notions of caste hierarchy is breaking down in India.
+		- Dignity and equal treatment of women are necessary ingredients of a democratic society. Justify the statement.
+		- What are the merits and demerits of caste in politics? Mention any one of each.
+		- Mention two constitutional provisions that make India a secular state.
+	- political parties
+		- What has contributed to the strengthening of federalism and democracy in India?
+		- Why do we need political parties?
+		- 4 What are the various challenges faced by political parties?
+		- Mention the positive and negative impacts of regional political parties of India.
+		- 4 Suggest some reforms to strengthen parties so that they perform their functions well.
+		- 5 What do you mean by political parties? What are the functions of political parties?
+		- List the seven national parties of our country. Mention the symbol and the ideology of any five of these national parties.
+		- What criteria is adopted by the Election Commissioner to recognise a political party as a national party? Name any two national parties of India. Mention their symbols and ideologies.
+		- Why do ordinary citizens feel that democracy means political parties?
+	- democracy
+		- 2 Democracy stands much superior to any other form of government in promoting dignity and freedom of the individual. Explain.
+		- 2 Describe how democracy leads to a peaceful and harmonious life among citizens.
+		- 2 How do democracies accommodate social diversities?
+- e
+	- dev
+		- 2 “Money in our pocket cannot buy all goods and services that you may need to live Well”. Justify this statement with examples.
+		- What is considered the basic requirement of economic development?
+		- What will be the effects of depleting crude oil reserves?
+		- Why is Per Capita Income a better criterion then total income? Are there any limitations To use PCI method?
+		- Why is income considered an important criterion for measuring development?
+		- Name the report published by UNDP. What indicators are used by UNDP to compare the countries?
+	- sectors
+		- 3 “Tertiary sector is not playing any significant role in the development of Indian Economy.” Do you agree? Give reasons to support your answer
+		- 2 In what ways is the government trying to increase employment for people in rural areas?
+		- 2 What methods can be adopted to protect workers in the unorganized sector?
+		- 2 Explain how the classification of economic activities into primary, secondary and tertiary is useful.
+		- 2 Why does the government take up public sector activities?
+		- 2 Differentiate between organized and unorganized sectors of the economy.
+		- “The problem of underemployment is not confined only to agriculture”. Support the statement with examples.
+		- Service sector is not growing equally? Justify.
+	- money
+		- 2 .Imagine yourself to be XYZ a member of women Self Help Group .Analyze the ways through which your group provides loans to the people?
+		- What problems were faced by people before the use of money for transactions? How has the use of money helped to change this?
+		- 3 Differentiate between formal and informal sources of credit.
+		- Why do we need to expand formal sources of credit in India?
+		- Explain the positive and negative role of credit with examples.
+		- What are the various sources of credit? Explain how cooperatives are useful to farmers.
+		- Define the term credit.
+		- Why do rural poor depend on informal sources of credit?
+		- What do you mean by terms of credit?
+		- Why are some people unable to borrow from commercial banks?
+		- Why do lenders ask for collateral while lending?
+	- globalisation
+		- Analyze the impact of globalization.
+		- 4 Describe the contribution of technology in promoting the process of globalization.
+		- 3 What steps can be taken to ensure fair globalisation?
+		- 3 What are the MNC’s? How do they control production in other countries? Explain with Examples.
+		- Describe the impact of globalisation on Indian economy.
+		- The impact of globalization has not been uniform.” Explain the statement with suitable examples.
+		- Why did the Indian government decide to put up barriers to foreign trade and investment immediately after independence? Define liberalization. Why did government of India decide to take up the liberalization process
+		- What are the advantages and disadvantages of globalization on our economy?

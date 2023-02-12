@@ -1,0 +1,39 @@
+- 1. plan.
+	- list of tasks to be accomplished.
+	- spreadsheet or a list in keep.
+- 2. journal.
+	- journal every week.
+- 3. study
+	- focus in school, so that you don't have to study it all from scratch again.
+	- study at least 5 hours a day.
+	- breaks
+	   true
+		- strategy.
+			- take regular breaks.
+			- start: 50/5
+			- 60/7
+			- Gradually increase to 1.5 hours with 10 minute breaks.
+			- 2 hours with 15 minute breaks.
+			- 2.5 hours with 17 minute breaks.
+			- 3 hours with 20 minute breaks.
+			- 4 hours with 23 minute breaks.
+			- stop at 4 hours
+			- do not exceed that amount of time without a break.
+		- tingz.
+			- clean up desk/organize.
+			- walking + skipping.
+			- exercise- yoga + walking.
+			- meditation.
+			- drink Water + chocolate/nuts.
+			- redo/weekly spread.
+			- read.
+			- nap (Einstein thing)
+- 4. exercise.
+	- stretches.
+	- walking.
+	- surya Namaskar.
+	- squats.
+	- yoga.
+- 5. wake up early : 4-5am
+- 6. meditation.
+-

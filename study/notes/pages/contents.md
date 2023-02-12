@@ -1,0 +1,34 @@
+- [[academia]]
+	- [[grade10]]
+		- [[eng10]]
+		- [[sci10]]
+		- [[soc10]]
+		- [[math10]]
+		- [[hin10]]
+- [[productivity]]
+  collapsed:: true
+	- books
+		- [[atomic-habits]]
+		- [[how-to-be-a-straight-A-student]]
+		- [[deep-work]]
+	- notes
+		- [[track_habits]]
+		- [[goals]]
+		- [[self_discipline]]
+		- [[procrastination]]
+		- [[organization]]
+		- [[time_management]]
+- [[personal]]
+	- roster
+		- [[2022]]
+		- [[2023]]
+	- gen
+		- [[obsidian-appearance]]
+- [[tech]]
+	- [[programming]]
+		- languages
+			- [[python]]
+		- gen
+			- [[nvim setup]]
+			- [[general]]
+	- [[firefox]]

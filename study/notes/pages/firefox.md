@@ -1,0 +1,4 @@
+- stuff i've changed
+- about:config
+	- ui.key.menuAccessKeyFocuses = false
+	- toolkit.tabbox.switchByScrolling = true

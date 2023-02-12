@@ -1,0 +1,17 @@
+- time yourself
+	- understand how long it actually takes to complete a task
+		- average of rec. time
+		-
+- having a schedule
+	- overview of things to be done in a particular week
+- divide workload
+	- manageable chunks
+- no distractions
+	- lofi music?
+- planning
+	- visual reminders
+	- capture: a basic idea of any tasks needed to done. just a list- keep. jot down any new tasks/assignments needed to be done
+	- plan: plan the day
+	- schedule: move plans
+	- be flexible
+	- easy to restart after periods of neglec

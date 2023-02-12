@@ -1,0 +1,10 @@
+- gen
+	- [[LaTeX]]
+- [[grade10]]
+	- [[eng10]]
+	- [[sci10]]
+	- [[soc10]]
+	- [[math10]]
+	- [[hin10]]
+- [[grade11]]
+- [[jee]]
