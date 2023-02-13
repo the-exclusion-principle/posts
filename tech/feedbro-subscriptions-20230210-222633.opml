@@ -25,8 +25,6 @@
             xmlUrl="https://sadcypher.tumblr.com/rss" htmlUrl="https://sadcypher.tumblr.com/"/>
       <outline text="pizzatriestostudy" title="pizzatriestostudy" type="rss" 
             xmlUrl="https://pizzatriestostudy.tumblr.com/rss" htmlUrl="https://pizzatriestostudy.tumblr.com/"/>
-      <outline text="tiredclementine" title="tiredclementine" type="rss" 
-            xmlUrl="https://tiredclementine.tumblr.com/rss" htmlUrl="https://tiredclementine.tumblr.com/"/>
       <outline text="mid-afternoon-studies" title="mid-afternoon-studies" type="rss" 
             xmlUrl="https://mid-afternoon-studies.tumblr.com/rss" htmlUrl="https://mid-afternoon-studies.tumblr.com/"/>
       <outline text="archaic-stranger" title="archaic-stranger" type="rss" 
@@ -61,10 +59,10 @@
             xmlUrl="https://studium-stardust.tumblr.com/rss" htmlUrl="https://studium-stardust.tumblr.com/"/>
       <outline text="merve" title="merve" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkPgEucgqedbckpzC2EUwIA" htmlUrl="https://www.youtube.com/channel/UCkPgEucgqedbckpzC2EUwIA"/>
-      <outline text="Maria vs universe (@xsemaria) | Instagram" title="Maria vs universe (@xsemaria) | Instagram" type="rss" 
-            xmlUrl="https://www.instagram.com/xsemaria/" htmlUrl="https://www.instagram.com/xsemaria"/>
       <outline text="studymd" title="studymd" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5CRP-6oxYenIgBj17CkBZg" htmlUrl="https://www.youtube.com/channel/UC5CRP-6oxYenIgBj17CkBZg"/>
+      <outline text="Maria vs universe (@xsemaria) | Instagram" title="Maria vs universe (@xsemaria) | Instagram" type="rss" 
+            xmlUrl="https://www.instagram.com/xsemaria/" htmlUrl="https://www.instagram.com/xsemaria"/>
   </outline>
   <outline title="cybersecurity" text="cybersecurity">
       <outline text="Restore Privacy" title="Restore Privacy" type="rss" 
@@ -91,6 +89,8 @@
             xmlUrl="https://lckdscl.xyz/feed.xml" htmlUrl="/"/>
       <outline text="orizuru" title="orizuru" type="rss" 
             xmlUrl="https://orizuru.neocities.org/atom.xml"/>
+      <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" 
+            xmlUrl="https://lexfridman.com/feed/podcast/" htmlUrl="https://lexfridman.com/"/>
   </outline>
   <outline title="linux" text="linux">
       <outline text="Manjaro - enjoy the simplicity" title="Manjaro - enjoy the simplicity" type="rss" 
@@ -110,11 +110,13 @@
   </outline>
   <outline title="girlbloggers" text="girlbloggers">
       <outline text="daemonhxckergrrl" title="daemonhxckergrrl" type="rss" 
-            xmlUrl="https://daemonhxckergrrl.tumblr.com/rss" htmlUrl="https://daemonhxckergrrl.tumblr.com/"/>
+            xmlUrl="https://daemonhxckergrrl.tumblr.com/rss" htmlUrl="https://daemonhxckergrrl.tumblr.com/" maxItems="100"/>
       <outline text="raen1" title="raen1" type="rss" 
             xmlUrl="https://raen1.tumblr.com/rss" htmlUrl="https://raen1.tumblr.com/"/>
+      <outline text="you just lost the game" title="you just lost the game" type="rss" 
+            xmlUrl="https://isomorbism.tumblr.com/rss" htmlUrl="https://isomorbism.tumblr.com/"/>
       <outline text="tonysopranobignaturals" title="tonysopranobignaturals" type="rss" 
-            xmlUrl="https://tonysopranobignaturals.tumblr.com/rss" htmlUrl="https://tonysopranobignaturals.tumblr.com/"/>
+            xmlUrl="https://tonysopranobignaturals.tumblr.com/rss" htmlUrl="https://tonysopranobignaturals.tumblr.com/" maxItems="100"/>
       <outline text="ms-demeanor" title="ms-demeanor" type="rss" 
             xmlUrl="https://ms-demeanor.tumblr.com/rss" htmlUrl="https://ms-demeanor.tumblr.com/"/>
       <outline text="papenathys" title="papenathys" type="rss" 
@@ -135,8 +137,6 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVHxJghKAB_kA_5LMM8MD3w" htmlUrl="https://www.youtube.com/channel/UCVHxJghKAB_kA_5LMM8MD3w"/>
       <outline text="James (@jamesjmdev) | Twitter" title="James (@jamesjmdev) | Twitter" type="rss" 
             xmlUrl="https://twitter.com/jamesjmdev" htmlUrl="https://twitter.com/jamesjmdev"/>
-      <outline text="you just lost the game" title="you just lost the game" type="rss" 
-            xmlUrl="https://isomorbism.tumblr.com/rss" htmlUrl="https://isomorbism.tumblr.com/"/>
   </outline>
 </body>
 </opml>
