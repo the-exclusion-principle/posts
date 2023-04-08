@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="studyblr" text="studyblr">
+      <outline text="all by design" title="all by design" type="rss" 
+            xmlUrl="https://quietimtryingtostudy.tumblr.com/rss" htmlUrl="https://quietimtryingtostudy.tumblr.com/"/>
+      <outline text="Akshit Sinha" title="Akshit Sinha" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiZXxO_v7VVd8hYQiXoqZGg&amp;#8221" htmlUrl="https://www.youtube.com/channel/UCiZXxO_v7VVd8hYQiXoqZGg"/>
+      <outline text="the world&#39;s a ship on its passage out" title="the world&#39;s a ship on its passage out" type="rss" 
+            xmlUrl="https://archaic-stranger.tumblr.com/rss" htmlUrl="https://archaic-stranger.tumblr.com/"/>
+      <outline text="bedheadstudies" title="A Case Study of Narcolepsy in Academia" type="rss" 
+            xmlUrl="https://bedheadstudies.tumblr.com/rss" htmlUrl="https://bedheadstudies.tumblr.com/"/>
+      <outline text="jvscholz" title="jvscholz" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcaTUtGzOiS4cqrgtcsHYWg&amp;#8221" htmlUrl="https://www.youtube.com/channel/UCcaTUtGzOiS4cqrgtcsHYWg"/>
+      <outline text="https://hizerain.tumblr.com/" title="https://hizerain.tumblr.com/" type="rss" 
+            xmlUrl="https://hizerain.tumblr.com/rss" htmlUrl="https://hizerain.tumblr.com/"/>
+      <outline text="jay skullz" title="jay skullz" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYCO3Kifwg56zhus3XXiAVg&amp;#8221" htmlUrl="https://www.youtube.com/channel/UCYCO3Kifwg56zhus3XXiAVg"/>
+      <outline text="lovely nothingness" title="lovely nothingness" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-LVtmKRTBRkQ4no-AJZy1Q&amp;#8221" htmlUrl="https://www.youtube.com/channel/UC-LVtmKRTBRkQ4no-AJZy1Q"/>
+      <outline text="Maria vs universe (@xsemaria) | Instagram" title="Maria vs universe (@xsemaria) | Instagram" type="rss" 
+            xmlUrl="https://www.instagram.com/xsemaria/&amp;#8221" htmlUrl="https://www.instagram.com/xsemaria"/>
+      <outline text="γmc²" title="γmc²" type="rss" 
+            xmlUrl="https://metastablephysicist.tumblr.com/rss" htmlUrl="https://metastablephysicist.tumblr.com/"/>
+      <outline text="nietxsche" title="alea iacta est" type="rss" 
+            xmlUrl="https://nietxsche.tumblr.com/rss" htmlUrl="https://nietxsche.tumblr.com/"/>
+      <outline text="notesbyash" title="another little studyblr" type="rss" 
+            xmlUrl="https://notesbyash.tumblr.com/rss" htmlUrl="https://notesbyash.tumblr.com/"/>
+      <outline text="sadcypher" title="reductio ad absurdum" type="rss" 
+            xmlUrl="https://sadcypher.tumblr.com/rss" htmlUrl="https://sadcypher.tumblr.com/"/>
+      <outline text="idk-someone-fix-this." title="Study room for the damned" type="rss" 
+            xmlUrl="https://idk-someone-fix-this.tumblr.com/rss" htmlUrl="https://idk-someone-fix-this.tumblr.com/"/>
+      <outline text="why-the-heck-not." title="so instead, I read" type="rss" 
+            xmlUrl="http://why-the-heck-not.tumblr.com/rss" htmlUrl="https://why-the-heck-not.tumblr.com/"/>
+      <outline text="why-the-heck-not-rb." title="posts i love" type="rss" 
+            xmlUrl="https://why-the-heck-not-rb.tumblr.com/rss" htmlUrl="https://why-the-heck-not-rb.tumblr.com/"/>
+      <outline text="teaching-an-artificial-student" title="Natural Language &#38; Artificial Intelligence" type="rss" 
+            xmlUrl="https://teaching-an-artificial-student.tumblr.com/rss" htmlUrl="https://teaching-an-artificial-student.tumblr.com/"/>
+  </outline>
+  <outline title="ai" text="ai">
+      <outline text="One Useful Thing" title="One Useful Thing" type="rss" 
+            xmlUrl="https://oneusefulthing.substack.com/feed" htmlUrl="https://www.oneusefulthing.org"/>
+      <outline text="Blog on EleutherAI Blog" title="Blog on EleutherAI Blog" type="rss" 
+            xmlUrl="https://blog.eleuther.ai/index.xml" htmlUrl="https://blog.eleuther.ai/"/>
+      <outline text="AI &#38; ML – Radar" title="AI &#38; ML – Radar" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/oreilly/radar/data" htmlUrl="https://www.oreilly.com/radar"/>
+      <outline text="Google AI Blog" title="Google AI Blog" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" htmlUrl="http://ai.googleblog.com/"/>
+      <outline text="LessWrong" title="LessWrong" type="rss" 
+            xmlUrl="https://www.lesswrong.com/feed.xml" htmlUrl="https://www.lesswrong.com"/>
+      <outline text="The End of Reckoning" title="The End of Reckoning" type="rss" 
+            xmlUrl="https://benlevinstein.substack.com/feed" htmlUrl="https://benlevinstein.substack.com"/>
+      <outline text="Gwern.net Newsletter" title="Gwern.net Newsletter" type="rss" 
+            xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.substack.com"/>
+      <outline text="Computer Things" title="Computer Things" type="rss" 
+            xmlUrl="https://buttondown.email/hillelwayne/rss" htmlUrl="https://buttondown.email/hillelwayne"/>
+      <outline text="near (@nearcyan) | Twitter" title="near (@nearcyan) | Twitter" type="rss" 
+            xmlUrl="https://twitter.com/nearcyan" htmlUrl="https://twitter.com/nearcyan"/>
+      <outline text="Mason (@webdevMason) | Twitter" title="Mason (@webdevMason) | Twitter" type="rss" 
+            xmlUrl="https://twitter.com/webdevMason" htmlUrl="https://twitter.com/webdevMason"/>
+      <outline text="Neel Chauhan" title="Neel Chauhan" type="rss" 
+            xmlUrl="https://www.neelc.org/index.xml" htmlUrl="https://www.neelc.org/"/>
+      <outline text="Don&#39;t Worry About the Vase" title="Don&#39;t Worry About the Vase" type="rss" 
+            xmlUrl="https://thezvi.wordpress.com/feed/" htmlUrl="https://thezvi.wordpress.com"/>
+      <outline text="Astral Codex Ten" title="Astral Codex Ten" type="rss" 
+            xmlUrl="https://astralcodexten.substack.com/feed" htmlUrl="https://astralcodexten.substack.com"/>
+      <outline text="Eliezer Yudkowsky (@ESYudkowsky) | Twitter" title="Eliezer Yudkowsky (@ESYudkowsky) | Twitter" type="rss" 
+            xmlUrl="https://twitter.com/ESYudkowsky" htmlUrl="https://twitter.com/ESYudkowsky"/>
+  </outline>
+  <outline title="cybersecurity" text="cybersecurity">
+      <outline text="packetstormsecurity: Files ≈ Packet Storm" title="Files ≈ Packet Storm" type="rss" 
+            xmlUrl="https://rss.packetstormsecurity.com/files/” " htmlUrl="https://packetstormsecurity.com/"/>
+      <outline text="RestorePrivacy" title="RestorePrivacy" type="rss" 
+            xmlUrl="https://restoreprivacy.com/feed" htmlUrl="https://restoreprivacy.com/"/>
+      <outline text="Mental Outlaw" title="Mental Outlaw" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA" htmlUrl="https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA"/>
+      <outline text="John Hammond" title="John Hammond" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw" htmlUrl="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw"/>
+      <outline text="download shinigami eyes" title="download shinigami eyes" type="rss" 
+            xmlUrl="https://hater-of-terfs.tumblr.com/tagged/infosec/rss" htmlUrl="https://hater-of-terfs.tumblr.com/"/>
+      <outline text="Arch Linux: Recent news updates" title="Arch Linux: Recent news updates" type="rss" 
+            xmlUrl="https://archlinux.org/feeds/news" htmlUrl="https://archlinux.org/news/"/>
+  </outline>
+  <outline title="cs" text="cs">
+      <outline text="3Blue1Brown" title="3Blue1Brown" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
+      <outline text="Ben Eater" title="Ben Eater" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS0N5baNlQWJCUrhCEo8WlA" htmlUrl="https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA"/>
+      <outline text="Ben Awad" title="Ben Awad" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8QAzbLcRglXeN_MY9blyw" htmlUrl="https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw"/>
+      <outline text="Computerphile" title="Computerphile" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"/>
+      <outline text="Frame of Essence" title="Frame of Essence" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQHsMwcGoH1ygyi-pJs5Z8A" htmlUrl="https://www.youtube.com/channel/UCQHsMwcGoH1ygyi-pJs5Z8A"/>
+      <outline text="lckdscl’s site" title="lckdscl’s site" type="rss" 
+            xmlUrl="https://lckdscl.xyz/feed.xml" htmlUrl="/"/>
+      <outline text="LiveOverflow" title="LiveOverflow" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w" htmlUrl="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"/>
+      <outline text="NetworkChuck" title="NetworkChuck" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ" htmlUrl="https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ"/>
+      <outline text="orizuru" title="orizuru" type="rss" 
+            xmlUrl="https://orizuru.neocities.org/atom.xml"/>
+      <outline text="Reducible" title="Reducible" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK8XIGR5kRidIw2fWqwyHRA" htmlUrl="https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA"/>
+      <outline text="sentdex" title="sentdex" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfzlCWGWYyIQ0aLC5w48gBQ" htmlUrl="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ"/>
+      <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" 
+            xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
+  </outline>
+  <outline title="girlbloggers" text="girlbloggers">
+      <outline text="shacklesburst" title="curry, spicy, mahou shoujo" type="rss" 
+            xmlUrl="https://shacklesburst.tumblr.com/rss" htmlUrl="https://shacklesburst.tumblr.com/"/>
+      <outline text="official-kircheis" title="If only Siegfried Kircheis were here" type="rss" 
+            xmlUrl="https://official-kircheis.tumblr.com/rss" htmlUrl="https://official-kircheis.tumblr.com/"/>
+      <outline text="papenathys" title="clinging onto sin;" type="rss" 
+            xmlUrl="https://papenathys.tumblr.com/rss" htmlUrl="https://papenathys.tumblr.com/"/>
+      <outline text="ashstfu" title="https://ashstfu.tumblr.com/" type="rss" 
+            xmlUrl="https://ashstfu.tumblr.com/rss" htmlUrl="https://ashstfu.tumblr.com/"/>
+      <outline text="daemonhxckergrrl" title="QUEER PHREAK" type="rss" 
+            xmlUrl="https://daemonhxckergrrl.tumblr.com/rss" htmlUrl="https://daemonhxckergrrl.tumblr.com/"/>
+      <outline text="the-real-numbers" title="The Real Numbers: A Math &#38; Shitpost Blog" type="rss" 
+            xmlUrl="https://the-real-numbers.tumblr.com/rss" htmlUrl="https://the-real-numbers.tumblr.com/"/>
+      <outline text="tonysopranobignaturals" title="tonysopranobignaturals" type="rss" 
+            xmlUrl="https://tonysopranobignaturals.tumblr.com/rss" htmlUrl="https://tonysopranobignaturals.tumblr.com/"/>
+      <outline text="nyancrimew" title="nyancrimew" type="rss" 
+            xmlUrl="https://nyancrimew.tumblr.com/rss" htmlUrl="https://nyancrimew.tumblr.com/"/>
+      <outline text="isomorbism in exile" title="isomorbism in exile" type="rss" 
+            xmlUrl="https://autism-spectral-theorem.tumblr.com/rss" htmlUrl="https://autism-spectral-theorem.tumblr.com/"/>
+      <outline text="girlmicrowave: local loser/hater girl" title="girlmicrowave: local loser/hater girl" type="rss" 
+            xmlUrl="https://girlmicrowave.tumblr.com/rss" htmlUrl="https://girlmicrowave.tumblr.com/"/>
+      <outline text="raskolnikovatthebarricade: ¯\_(ツ)_/¯" title="¯\_(ツ)_/¯" type="rss" 
+            xmlUrl="https://raskolnikovatthebarricade.tumblr.com/rss" htmlUrl="https://raskolnikovatthebarricade.tumblr.com/"/>
+      <outline text="andmaybegayer" title="andmaybegayer" type="rss" 
+            xmlUrl="https://andmaybegayer.tumblr.com/rss" htmlUrl="https://andmaybegayer.tumblr.com/"/>
+  </outline>
+  <outline title="sci" text="sci">
+      <outline text="AsapSCIENCE" title="AsapSCIENCE" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA" htmlUrl="https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA"/>
+      <outline text="Kurzgesagt – In a Nutshell" title="Kurzgesagt – In a Nutshell" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q" htmlUrl="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"/>
+      <outline text="Mark Rober" title="Mark Rober" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg" htmlUrl="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg"/>
+      <outline text="NileBlue" title="NileBlue" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1D3yD4wlPMico0dss264XA" htmlUrl="https://www.youtube.com/channel/UC1D3yD4wlPMico0dss264XA"/>
+      <outline text="NileRed" title="NileRed" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA" htmlUrl="https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA"/>
+      <outline text="styropyro" title="styropyro" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA" htmlUrl="https://www.youtube.com/channel/UCJYJgj7rzsn0vdR7fkgjuIA"/>
+      <outline text="The Royal Institution" title="The Royal Institution" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYeF244yNGuFefuFKqxIAXw" htmlUrl="https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw"/>
+      <outline text="The Thought Emporium" title="The Thought Emporium" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV5vCi3jPJdURZwAOO_FNfQ" htmlUrl="https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ"/>
+      <outline text="TheBackyardScientist" title="TheBackyardScientist" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC06E4Y_-ybJgBUMtXx8uNNw" htmlUrl="https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw"/>
+      <outline text="Overthinking Everything" title="Overthinking Everything" type="rss" 
+            xmlUrl="https://drmaciver.substack.com/feed" htmlUrl="https://drmaciver.substack.com"/>
+      <outline text="Physics Videos by Eugene Khutoryansky" title="Physics Videos by Eugene Khutoryansky" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0yBou72Lz9fqeMXh9mkog" htmlUrl="https://www.youtube.com/channel/UCJ0yBou72Lz9fqeMXh9mkog"/>
+      <outline text="styropyro shorts" title="styropyro shorts" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwGEZhoIwu7GN44Xkr_fXwA" htmlUrl="https://www.youtube.com/channel/UCwGEZhoIwu7GN44Xkr_fXwA"/>
+      <outline text="Simone Giertz" title="Simone Giertz" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ" htmlUrl="https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ"/>
+      <outline text="NileRed Shorts" title="NileRed Shorts" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA0mlN90EHCizvo101nbr-g" htmlUrl="https://www.youtube.com/channel/UCA0mlN90EHCizvo101nbr-g"/>
+      <outline text="Cleo Abram" title="Cleo Abram" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA" htmlUrl="https://www.youtube.com/channel/UC415bOPUcGSamy543abLmRA"/>
+  </outline>
+  <outline title="math" text="math">
+      <outline text="blackpenredpen" title="blackpenredpen" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_SvYP0k05UKiJ_2ndB02IA" htmlUrl="https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA"/>
+      <outline text="just algebra" title="just algebra" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz5KKoq3w_50HRs0o8pRdSA" htmlUrl="https://www.youtube.com/channel/UCz5KKoq3w_50HRs0o8pRdSA"/>
+      <outline text="just calculus" title="just calculus" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMUu2lQ_ilNsb26oWrc5ENw" htmlUrl="https://www.youtube.com/channel/UCMUu2lQ_ilNsb26oWrc5ENw"/>
+      <outline text="Michael Penn" title="Michael Penn" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6jM0RFkr4eSkzT5Gx0HOAw" htmlUrl="https://www.youtube.com/channel/UC6jM0RFkr4eSkzT5Gx0HOAw"/>
+      <outline text="Numberphile" title="Numberphile" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A" htmlUrl="https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A"/>
+      <outline text="Primer" title="Primer" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ" htmlUrl="https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ"/>
+      <outline text="The Action Lab" title="The Action Lab" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1VLQPn9cYSqx8plbk9RxxQ" htmlUrl="https://www.youtube.com/channel/UC1VLQPn9cYSqx8plbk9RxxQ"/>
+      <outline text="Think Twice" title="Think Twice" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9yt3wz-6j19RwD5m5f6HSg" htmlUrl="https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg"/>
+      <outline text="mathwizz" title="Untitled" type="rss" 
+            xmlUrl="https://mathwizz.tumblr.com/rss" htmlUrl="https://mathwizz.tumblr.com/"/>
+      <outline text="mothematicians" title="monica" type="rss" 
+            xmlUrl="https://mothematicians-blog.tumblr.com/rss" htmlUrl="https://mothematicians-blog.tumblr.com/"/>
+      <outline text="bsdndprplplld" title="you can&#39;t comb a hairy ball" type="rss" 
+            xmlUrl="https://bsdndprplplld.tumblr.com/rss" htmlUrl="https://bsdndprplplld.tumblr.com/"/>
+      <outline text="spectrallysequenced" title="spectrallysequenced" type="rss" 
+            xmlUrl="https://spectrallysequenced.tumblr.com/rss" htmlUrl="https://spectrallysequenced.tumblr.com/"/>
+      <outline text="lipshits" title="lipshits" type="rss" 
+            xmlUrl="https://lipshits-continuous.tumblr.com/rss" htmlUrl="https://lipshits-continuous.tumblr.com/"/>
+  </outline>
+  <outline title="book/video_essay/other" text="book/video_essay/other">
+      <outline text="oliSUNvia" title="oliSUNvia" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVHxJghKAB_kA_5LMM8MD3w" htmlUrl="https://www.youtube.com/channel/UCVHxJghKAB_kA_5LMM8MD3w"/>
+      <outline text="CGP Grey" title="CGP Grey" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w" htmlUrl="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w"/>
+      <outline text="ContraPoints" title="ContraPoints" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA" htmlUrl="https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA"/>
+      <outline text="shawn mccomb" title="shawn mccomb" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIOvS6rUOMa1xdmfbbbGW9Q" htmlUrl="https://www.youtube.com/channel/UCIOvS6rUOMa1xdmfbbbGW9Q"/>
+      <outline text="tom scott" title="tom scott" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A" htmlUrl="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A"/>
+      <outline text="uncarley" title="uncarley" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT754i47sbjkeIFSTvwqPyA" htmlUrl="https://www.youtube.com/channel/UCT754i47sbjkeIFSTvwqPyA"/>
+      <outline text="honestlysophie" title="honestlysophie" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpSvdlRSZ57o_WBIjXo7A_g" htmlUrl="https://www.youtube.com/channel/UCpSvdlRSZ57o_WBIjXo7A_g"/>
+      <outline text="Ro Ramdin" title="Ro Ramdin" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7gi2doIjrN8ny5_aCHVdlg" htmlUrl="https://www.youtube.com/channel/UC7gi2doIjrN8ny5_aCHVdlg"/>
+      <outline text="exurb1a" title="exurb1a" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg" htmlUrl="https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg"/>
+      <outline text="Pursuit of Wonder" title="Pursuit of Wonder" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-tLyAaPbRZiYrOJxAGB7dQ" htmlUrl="https://www.youtube.com/channel/UC-tLyAaPbRZiYrOJxAGB7dQ"/>
+      <outline text="* e m m i e *" title="* e m m i e *" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMFSTAyvpl_yBXmq6JPfhBQ" htmlUrl="https://www.youtube.com/channel/UCMFSTAyvpl_yBXmq6JPfhBQ"/>
+      <outline text="Quinton Reviews" title="Quinton Reviews" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM0V8r4kuIWIl6Sy-NHj2lg" htmlUrl="https://www.youtube.com/channel/UCM0V8r4kuIWIl6Sy-NHj2lg"/>
+      <outline text="Answer in Progress" title="Answer in Progress" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqVEHtQoXHmUCfJ-9smpTSg" htmlUrl="https://www.youtube.com/channel/UCqVEHtQoXHmUCfJ-9smpTSg"/>
+      <outline text="Nicole Rafiee" title="Nicole Rafiee" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw8_yg1camlWnYfX_0tfECw" htmlUrl="https://www.youtube.com/channel/UCw8_yg1camlWnYfX_0tfECw"/>
+      <outline text="The Book Leo" title="The Book Leo" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkSMDOtrKr43OGSSmKnx6tQ" htmlUrl="https://www.youtube.com/channel/UCkSMDOtrKr43OGSSmKnx6tQ"/>
+  </outline>
+</body>
+</opml>
